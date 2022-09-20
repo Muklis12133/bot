@@ -3,7 +3,7 @@
 //『 Utama 』 //
 global.owner = ['6285896661014']  // isi jika perlu
 global.mods = ['6285896661014']   // isi jika perlu
-global.prems = ['6285896661014']  // isi jika perlu
+global.prems = ['6288274068020']  // isi jika perlu
 
 //Isi dengan nama dan nomor lu//
 global.nameowner = '⫹⫺ Kliss' // isi nama kalian bebas
